@@ -1,4 +1,4 @@
-//Levantaar servicios nodemosn npm run watch
+//Levantar servicios nodemosn npm run watch
 
 //Variables del index.html
 const formLogin = document.querySelector('#formLoginInsta')
